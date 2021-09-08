@@ -11,11 +11,11 @@ Berkas terdiri dari:
 
 Kelompok AoT:
 
-Achmad Dino Saputra, 1402019003
+Achmad Dino Saputra, 1402019003 ( Ketua ) / High contribution
 
-Assegaf Insani, 1402019018
+Assegaf Insani, 1402019018 / Medium contribution
 
-Septo Hady Tryana, 1402019125
+Septo Hady Tryana, 1402019125 / Low contribution
 
 
 ============================================================================================
